@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidPopularLibrary</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_view">Вывод:</string>
+    <string name="zero">0</string>
+    <string name="button">Concatenate </string>
+    <string name="go_moxy">Go Moxy</string>
+</resources>
